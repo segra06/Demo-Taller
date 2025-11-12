@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\taller-aplicada\\demo-taller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF093A96-0AE1-4226-A31D-0D8FF390E7F9}|AcceptanceTests\\AcceptanceTests.csproj|c:\\dev\\taller-aplicada\\demo-taller\\acceptancetests\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF093A96-0AE1-4226-A31D-0D8FF390E7F9}|AcceptanceTests\\AcceptanceTests.csproj|solutionrelative:acceptancetests\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF093A96-0AE1-4226-A31D-0D8FF390E7F9}|AcceptanceTests\\AcceptanceTests.csproj|c:\\dev\\taller-aplicada\\demo-taller\\acceptancetests\\acceptancetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF093A96-0AE1-4226-A31D-0D8FF390E7F9}|AcceptanceTests\\AcceptanceTests.csproj|solutionrelative:acceptancetests\\acceptancetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\models\\services\\messageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\models\\services\\messageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\models\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\models\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|c:\\dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0BDBFBF-E967-49F0-91F3-DCBFDCD7F09B}|demo-taller\\demo-taller.csproj|solutionrelative:demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerTest.cs",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\AcceptanceTests\\ControllerTest.cs",
+              "RelativeDocumentMoniker": "AcceptanceTests\\ControllerTest.cs",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\AcceptanceTests\\ControllerTest.cs",
+              "RelativeToolTip": "AcceptanceTests\\ControllerTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:28:36.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcceptanceTests",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\AcceptanceTests\\AcceptanceTests.csproj",
+              "RelativeDocumentMoniker": "AcceptanceTests\\AcceptanceTests.csproj",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\AcceptanceTests\\AcceptanceTests.csproj",
+              "RelativeToolTip": "AcceptanceTests\\AcceptanceTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T02:26:41.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "templatemo-electric-scripts.js",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js",
+              "RelativeDocumentMoniker": "demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js",
+              "RelativeToolTip": "demo-taller\\wwwroot\\js\\templatemo-electric-scripts.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwHYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T18:44:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "demo-taller\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "demo-taller\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T16:41:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageServices.cs",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Models\\Services\\MessageServices.cs",
+              "RelativeDocumentMoniker": "demo-taller\\Models\\Services\\MessageServices.cs",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Models\\Services\\MessageServices.cs",
+              "RelativeToolTip": "demo-taller\\Models\\Services\\MessageServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:16:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "demo-taller\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "demo-taller\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAIBJwOMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T04:20:41.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "demo-taller\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "demo-taller\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:16:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "demo-taller\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "demo-taller\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:14:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\appsettings.json",
+              "RelativeDocumentMoniker": "demo-taller\\appsettings.json",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\appsettings.json",
+              "RelativeToolTip": "demo-taller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T16:13:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Models\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "demo-taller\\Models\\Entities\\Message.cs",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\Models\\Entities\\Message.cs",
+              "RelativeToolTip": "demo-taller\\Models\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:05:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "templatemo-electric-xtra.css",
+              "DocumentMoniker": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css",
+              "RelativeDocumentMoniker": "demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css",
+              "ToolTip": "C:\\Dev\\taller-aplicada\\demo-taller\\demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css",
+              "RelativeToolTip": "demo-taller\\wwwroot\\css\\templatemo-electric-xtra.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T04:20:08.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
