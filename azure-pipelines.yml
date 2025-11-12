@@ -1,0 +1,43 @@
+
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+
+steps:
+- task: UseDotNet@2
+  displayName: "Instalación SDK"
+  inputs:
+    packageType: 'sdk'
+    version: '8.0.x'
+    
+- task: DotNetCoreCLI@2
+  displayName: "Compilación"
+  inputs:
+    azureSubscription: 'Azure subscription 1(46fa3667-e556-4b63-8181-cc5584703c72)'
+    command: 'build'
+    projects: '*/.csproj'
+    workingDirectory: '$(System.DefaultWorkingDirectory)/demo-taller'
+- task: DotNetCoreCLI@2
+  displayName: "Publicación"
+  inputs:
+    azureSubscription: 'Azure subscription 1(46fa3667-e556-4b63-8181-cc5584703c72)'
+    command: 'publish'
+    publishWebProjects: true
+    workingDirectory: '$(System.DefaultWorkingDirectory)/demo-taller'
+- task: DotNetCoreCLI@2
+  displayName: "Pruebas"
+  inputs:
+    command: 'test'
+    projects: '*/Tests.csproj'
+    publishTestResults: true
+- task: AzureRmWebAppDeployment@5
+  displayName: "Despliegue"
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Azure subscription 1(46fa3667-e556-4b63-8181-cc5584703c72)'
+    appType: 'webApp'
+    WebAppName: 'taller-c23496'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
